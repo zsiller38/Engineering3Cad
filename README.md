@@ -36,8 +36,9 @@ The second part I made was the key. We first extruded the circular key handel an
 <img src="https://user-images.githubusercontent.com/71402927/197865924-82961e8a-b9a5-4052-ad9a-479ee9e2a60d.png" style="height:600px;">
 
 #### Reflection
-### Assembley 4.3
+### Assembley
 #### Description
+Finally we had to mate together our different parts. We used a revolve mate between the base of the spinner and the mount. A slider mate was used to allow the key to slide in and out of the hole on the mount. To make the spinner turn when the key is pulled we added a gear relation. To make sure the teeth lide up we used the section tool to cut away the top part of the model to see where the teeth are. Finally to complete the model we added 3 bolts to hold the ring and mount together. 
 #### Evidence
 [OnshapeDocument](https://cvilleschools.onshape.com/documents/9ec631415632a54bd51a8724/w/ca1eaa749cb375c37f0a589e/e/f706729c37f1abecf96fe64b)
 #### Image
@@ -46,6 +47,7 @@ The second part I made was the key. We first extruded the circular key handel an
 #### Reflection
 ### Branching and Merging 4.4/4.5
 #### Description
+The goal of this module was to learn ho to branch and merge in an onshape document. First we created a version which a snapshot of what the design looked like at the time the version was created. Then we branched the document. This allowed us to create a seperate workplace where we could edit the prop without affecting the main version. Finally when we found a new prop design we were happy with we merged the branch and main document into one. 
 #### Evidence
 [OnshapeDocument](https://cvilleschools.onshape.com/documents/9ec631415632a54bd51a8724/w/ca1eaa749cb375c37f0a589e/e/f706729c37f1abecf96fe64b)
 #### Image
