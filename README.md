@@ -20,6 +20,7 @@ The first part of this project was to make either a spinner or a ring. I made th
 <img src="https://user-images.githubusercontent.com/71402927/197864726-9c26e3ca-e3f0-492f-bf06-00b74c779537.png" alt="Girl in a jacket" style="height:600px;">
 
 #### Reflection
+This part had a lot of steps to follow and sometimes it took a while to figure out what dimensions to use. A trick to make the flipping between your document and the tutorial page is alt tab. This switches between your windows so you can keep them full screen and still navigate between them. The hardest part of this project was using the sweep tool. To use it you first need a curve to follow. I found it interesting that the curves you make are all put next to the part list. This made them easy to find later on when the prop was made. Learning the sweep tool was easy with the tutorial and it seems very usefull in creating some more unusal shapes. Other than that creating the spinner was easy and a little time consuming.
 
 ### Prop and Key 4.2
 
@@ -33,6 +34,7 @@ The second part I made was the key. We first extruded the circular key handel an
 <img src="https://user-images.githubusercontent.com/71402927/197865924-82961e8a-b9a5-4052-ad9a-479ee9e2a60d.png" style="height:600px;">
 
 #### Reflection
+The key was by far the easiest part to create. It was just a basic extruded handel and a shaft with a linear patern cut into it to make the teeth. The use of the mate connector was something I had never done before but would prove very useful in the future. This part reminded me of the part I was making when I was first learning onshape and it is cool to see how far I have come.
 ### Assembley
 #### Description
 Finally we had to mate together our different parts. We used a revolve mate between the base of the spinner and the mount. A slider mate was used to allow the key to slide in and out of the hole on the mount. To make the spinner turn when the key is pulled we added a gear relation. To make sure the teeth lide up we used the section tool to cut away the top part of the model to see where the teeth are. Finally to complete the model we added 3 bolts to hold the ring and mount together. 
@@ -46,7 +48,7 @@ This was one of the easier assemblies I have had to do. There were relativly few
 
 ### Branching and Merging 4.4/4.5
 #### Description
-The goal of this module was to learn ho to branch and merge in an onshape document. First we created a version which a snapshot of what the design looked like at the time the version was created. Then we branched the document. This allowed us to create a seperate workplace where we could edit the prop without affecting the main version. Finally when we found a new prop design we were happy with we merged the branch and main document into one. 
+The goal of this module was to learn how to branch and merge in an onshape document. First we created a version which a snapshot of what the design looked like at the time the version was created. Then we branched the document. This allowed us to create a seperate workplace where we could edit the prop without affecting the main version. Finally when we found a new prop design we were happy with we merged the branch and main document into one. 
 #### Evidence
 [OnshapeDocument](https://cvilleschools.onshape.com/documents/9ec631415632a54bd51a8724/w/ca1eaa749cb375c37f0a589e/e/f706729c37f1abecf96fe64b)
 #### Image
@@ -71,9 +73,11 @@ This was the first time I had ever created a part from sketches. It was confusin
 This was probably my favorite model to make and I enjoyed trying to create a model a different way without a tutorial telling you how.
 ## Multi Part Design Studios
 #### Description
+Create a piston like model that can move up and down. The cylinder is 145 mm tall and the tob and bottom plates are 100x100 mm and 40mm thick. The pins are all 195 mm with a diameter of 6.4 mm. The cylinder extends into the top and bottom plate by 30mm. The tapered hole where the piston is is made by revolving a sketch. 
 #### Evidence
 [Multipart Studio Document](https://cvilleschools.onshape.com/documents/405d50c9dcb92712028f45e6/w/bce35bcc4b8e22a2ce932164/e/3614cc87985eeb4da507fdc6)
 #### Image
 ![Screenshot 2022-10-26 7 52 07 PM](https://user-images.githubusercontent.com/71402927/198161193-46ac6cf3-1486-4ad9-9ec6-37aeae6dba50.png)
 
 #### Reflection
+This was the second project we did using sketches. The point of the project was to create multiple parts in one part studio by creating new extrucions rather than adding. Many of the dimension within the sketches where in parenthesies. This means that there dimensions are determined by other dimensions and when this occurs you sould use relations rather than dimensioning the part again. The hardest part of this project was the assembly as I spent quite awile creating the proper limits for the slider mate between the cylinder and piston. All that i neededwas some basic addition but this could be a time where creating a mate connector would have made it easier. Overall I like this project and I think I have gotten good at creating models from sketches.
