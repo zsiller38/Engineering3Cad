@@ -70,6 +70,7 @@ This was the first time I had ever created a part from sketches. It was confusin
 - When given a cross section regions that are shaded are solid. This is important because in a sketch it is hard to tell if something is hollow or not but this is how you can tell.
 - Take some time figuring out the most logical place to start, this will save you time later.
 - Don't make unecessary dimensions, this makes your sketch confusing and hard to read. Use relations instead, they are easier to create and if you are using variable sometimes unecessary dimensions can break your sketch when you change the variable, whereas relations will not. 
+
 This was probably my favorite model to make and I enjoyed trying to create a model a different way without a tutorial telling you how.
 ## Multi Part Design Studios
 #### Description
