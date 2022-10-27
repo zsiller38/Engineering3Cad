@@ -35,7 +35,7 @@ The second part I made was the key. We first extruded the circular key handel an
 
 #### Reflection
 The key was by far the easiest part to create. It was just a basic extruded handel and a shaft with a linear patern cut into it to make the teeth. The use of the mate connector was something I had never done before but would prove very useful in the future. This part reminded me of the part I was making when I was first learning onshape and it is cool to see how far I have come.
-### Assembley
+### Assembly 4.3
 #### Description
 Finally we had to mate together our different parts. We used a revolve mate between the base of the spinner and the mount. A slider mate was used to allow the key to slide in and out of the hole on the mount. To make the spinner turn when the key is pulled we added a gear relation. To make sure the teeth lide up we used the section tool to cut away the top part of the model to see where the teeth are. Finally to complete the model we added 3 bolts to hold the ring and mount together. 
 #### Evidence
